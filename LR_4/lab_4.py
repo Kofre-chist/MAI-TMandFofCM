@@ -173,4 +173,4 @@ def Animation(i):
 
 plot = FuncAnimation(fig, Animation, frames=1000, interval=0.001)
 
-plt.show()
+plt.show() 
